@@ -2,7 +2,7 @@
 
 # REF NO:24900580
 
-# EXP-04 Monitoring-Light-intensity-value-in-Thing-speak-cloud
+# EXP-04 Monitoring Light intensity value in Thing speak cloud
 # Uploading LDR sensor data in Thing Speak cloud
 
 # AIM:
